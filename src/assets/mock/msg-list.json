@@ -1,0 +1,89 @@
+{
+  "array":[
+    {
+      "messageId":"1",
+      "userId":"140000198202211138",
+      "userName":"AIA",
+      "userImgUrl":"./assets/user.jpg",
+      "toUserId":"210000198410281948",
+      "toUserName":"Hesloan",
+      "userAvatar":"./assets/to-user.jpg",
+      "time":1488349800000,
+      "message":"Olá sou AIA, sua assistente de automatização e processos, em que posso te ajudar?",
+      "status":"success"
+
+    },
+    {
+      "messageId":"2",
+      "userId":"210000198410281948",
+      "userName":"Hesloan",
+      "userImgUrl":"./assets/to-user.jpg",
+      "toUserId":"140000198202211138",
+      "toUserName":"AIA",
+      "userAvatar":"./assets/user.jpg",
+      "time":1491034800000,
+      "message":"Gostaria de gerar um documento funcional",
+      "status":"success"
+    },
+    {
+      "messageId":"3",
+      "userId":"140000198202211138",
+      "userName":"AIA",
+      "userImgUrl":"./assets/user.jpg",
+      "toUserId":"210000198410281948",
+      "toUserName":"Hesloan",
+      "userAvatar":"./assets/to-user.jpg",
+      "time":1491034920000,
+      "message":"OK. O que deseja fazer?",
+      "status":"success"
+    },
+    {
+      "messageId":"4",
+      "userId":"210000198410281948",
+      "userName":"Hesloan",
+      "userImgUrl":"./assets/to-user.jpg",
+      "toUserId":"140000198202211138",
+      "toUserName":"AIA",
+      "userAvatar":"./assets/user.jpg",
+      "time":1491036720000,
+      "message":"Preencher o numero da OP.",
+      "status":"success"
+    },
+    {
+       "messageId":"5",
+      "userId":"140000198202211138",
+      "userName":"AIA",
+      "userImgUrl":"./assets/user.jpg",
+      "toUserId":"210000198410281948",
+      "toUserName":"Hesloan",
+      "userAvatar":"./assets/to-user.jpg",
+      "time":1491034920000,
+      "message":"Qual o numero?",
+      "status":"success"
+    },
+    {
+      "messageId":"6",
+      "userId":"210000198410281948",
+      "userName":"Hesloan",
+      "userImgUrl":"./assets/to-user.jpg",
+      "toUserId":"140000198202211138",
+      "toUserName":"AIA",
+      "userAvatar":"./assets/user.jpg",
+      "time":1491036720000,
+      "message":"12312",
+      "status":"success"
+    },
+    {
+      "messageId":"7",
+      "userId":"140000198202211138",
+      "userName":"AIA",
+      "userImgUrl":"./assets/user.jpg",
+      "toUserId":"210000198410281948",
+      "toUserName":"Hesloan",
+      "userAvatar":"./assets/to-user.jpg",
+      "time":1491231150000,
+      "message":"OK. O que deseja fazer?",
+      "status":"success"
+    }
+  ]
+}

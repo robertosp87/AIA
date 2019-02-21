@@ -1,0 +1,7 @@
+{
+  "name": "kyraApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
