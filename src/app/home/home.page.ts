@@ -99,8 +99,6 @@ export class HomePage {
           this.msgList[index].status = 'success';
         }
       })
-
-      this.stopListening();
   }
 
   /**
@@ -160,6 +158,7 @@ export class HomePage {
       this.cd.detectChanges();
       this.editorMsg = this.matches[0];
       this.sendMsg();
+      this.stopListening();
     });
   }
 
